@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Top Langs](github-readme-stats-own-rhe4.vercel.app/api/top-langs/?username=alexgimenez02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alexgimenez02/alexgimenez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
