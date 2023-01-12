@@ -2,8 +2,9 @@
  - Born: 11th April 2000 in Barcelona
  - Studies Computer Engineering at Universitat Pompeu Fabra (2018 - now)
  <img src="images/upf_icon.png"  
+ width=500; height=150;
 alt="Universitat Pompeu Fabra"  
-style="float: left; margin-right: 10px;" />
+style="float: left; margin-right: 10px; " />
  - Worked at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (2022 - now) 
 <img src="images/hubtype_icon.png"  
 alt="Hubtype"  
