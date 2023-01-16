@@ -16,11 +16,11 @@ alt="Hubtype"
 style="float: left; margin-right: 10px;" /> <br />
  - Performed several personal projects:
 
-[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=Bar-discord&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=Bar-discord&theme=darcula)](https://github.com/alexgimenez02/Bar-discord)
 
-[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=SnakeGames&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=SnakeGames&theme=darcula)](https://github.com/alexgimenez02/SnakeGames)
 
-[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=Twitch_Chatbot&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=Twitch_Chatbot&theme=darcula)](https://github.com/alexgimenez02/Twitch_Chatbot)
 
 [![Top Langs](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/top-langs/?username=alexgimenez02&layout=compact&theme=darcula)](http://github-readme-stats-own-rhe4.vercel.app/)
 
