@@ -5,12 +5,12 @@
  width=200; height=200;
 alt="Bitxu the Maltese Puppy"  
 style="float: left; margin-right: 10px; " /> <br />
- - Studies Computer Engineering at Universitat Pompeu Fabra (2018 - now) <br />
+ - Studying Computer Engineering at Universitat Pompeu Fabra (2018 - now) <br />
  <a href="https://www.upf.edu/web/graus/grau-enginyeria-informatica"><img src="images/upf_icon.png"  
  width=500; height=150;
 alt="Universitat Pompeu Fabra"  
 style="float: left; margin-right: 10px; " /></a> <br />
- - Worked at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (2022 - now) <br />
+ - Working at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (2022 - now) <br />
 <a href="https://www.hubtype.com/"><img src="images/hubtype_icon.png"  
 alt="Hubtype"  
 style="float: left; margin-right: 10px;" /> <br />
