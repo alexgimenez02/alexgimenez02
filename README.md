@@ -5,7 +5,7 @@
  width=200; height=200;
 alt="Bitxu the Maltese Puppy"  
 style="float: left; margin-right: 10px; " /> <br />
- - Studying Computer Engineering at Universitat Pompeu Fabra (2018 - now) <br />
+ - Studied Computer Engineering at Universitat Pompeu Fabra (2018 - 2023) <br />
  <a href="https://www.upf.edu/web/graus/grau-enginyeria-informatica"><img src="images/upf_icon.png"  
  width=500; height=150;
 alt="Universitat Pompeu Fabra"  
