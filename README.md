@@ -10,7 +10,8 @@ style="float: left; margin-right: 10px; " /> <br />
  width=500; height=150;
 alt="Universitat Pompeu Fabra"  
 style="float: left; margin-right: 10px; " /></a> <br />
- - Working at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (2022 - now) <br />
+ - Worked at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (October 2022 - June 2023) <br />
+ - Working at Hubtype as a Junior Software Engineer (June 2023 - Now) <br />
 <a href="https://www.hubtype.com/"><img src="images/hubtype_icon.png"  
 alt="Hubtype"  
 style="float: left; margin-right: 10px;" /> <br />
