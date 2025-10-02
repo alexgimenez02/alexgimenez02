@@ -1,6 +1,6 @@
 # Àlex Giménez Saludes
  - Born: 11th April 2000 in Barcelona
- - Interested in a wide variety of topics, mainly: Videogames, dogs and having a good laugh with close ones <br />
+ - Interested in a wide variety of topics, mainly: Videogames, dogs, karate and D&D <br />
  <img src="images/bitxu.jpg"  
  width=200; height=200;
 alt="Bitxu the Maltese Puppy"  
