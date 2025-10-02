@@ -17,7 +17,7 @@ alt="Hubtype"
 style="float: left; margin-right: 10px;" /></a> <br />
  - Working at FX Digital as a Mid-Weight Software Developer (June 2025 - Now) <br />
 <a href="https://fxdigital.uk/" ><img src="images/fx_logo.png"
-width=200; height=200;
+width=250; height=250;
 alt="FX Digital"
 style="float: left; margin-right: 10px;"/></a><br />
  
