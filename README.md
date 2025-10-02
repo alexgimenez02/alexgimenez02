@@ -14,11 +14,11 @@ style="float: left; margin-right: 10px; " /></a> <br />
  - Worked at Hubtype as a Junior Software Engineer (June 2023 - May 2025) <br />
 <a href="https://www.hubtype.com/"><img src="images/hubtype_icon.png"  
 alt="Hubtype"  
-style="float: left; margin-right: 10px;" /> <br />
+style="float: left; margin-right: 10px;" /></a> <br />
  - Working at FX Digital as a Mid-Weight Software Developer (June 2025 - Now) <br />
-<a href="https://fxdigital.uk/"><img src="images/fx_logo.png"
+<a href="https://fxdigital.uk/" ><img src="images/fx_logo.png"
 alt="FX Digital"
-style:"float: left; margin-right: 10px" /> </a> <br />
+style="float: left; margin-right: 10px;"/></a><br />
  
  - Performed several personal projects:
 
