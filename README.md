@@ -11,10 +11,15 @@ style="float: left; margin-right: 10px; " /> <br />
 alt="Universitat Pompeu Fabra"  
 style="float: left; margin-right: 10px; " /></a> <br />
  - Worked at Hubtype as a Intern Jr Automation Productivity Engineer (Jr QA Engineer) (October 2022 - June 2023) <br />
- - Working at Hubtype as a Junior Software Engineer (June 2023 - Now) <br />
+ - Worked at Hubtype as a Junior Software Engineer (June 2023 - May 2025) <br />
 <a href="https://www.hubtype.com/"><img src="images/hubtype_icon.png"  
 alt="Hubtype"  
 style="float: left; margin-right: 10px;" /> <br />
+ - Working at FX Digital as a Mid-Weight Software Developer (June 2025 - Now) <br />
+<a href="https://fxdigital.uk/"><img src="images/fx_logo.png"
+alt="FX Digital"
+style:"float: left; margin-right: 10px" /> </a> <br />
+ 
  - Performed several personal projects:
 
 [![Bar Discord Bot](https://github-readme-stats-own-rhe4-git-main-alexgimenez02.vercel.app/api/pin/?username=alexgimenez02&repo=Bar-discord&theme=darcula)](https://github.com/alexgimenez02/Bar-discord)
